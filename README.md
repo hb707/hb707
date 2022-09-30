@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Typescript,Node.js)](https://github.com/hb707)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb707&show_icons=true&theme=radical)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Solidity,web3.js,truffle,ipfs,Express.js,React,Redux,Redux-saga,Next.js,Node.js)](https://github.com/hb707)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,AWS%20EC2,Nginx,AWS%20Route%2053,Git,GitHub,Notion,Slack)](https://github.com/hb707)
